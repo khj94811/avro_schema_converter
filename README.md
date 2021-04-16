@@ -2,4 +2,4 @@
 
 ### Requirements
 
-* (dataclasses-avroschema)[https://github.com/marcosschroh/dataclasses-avroschema/]
+* [dataclasses-avroschema](https://github.com/marcosschroh/dataclasses-avroschema/)
